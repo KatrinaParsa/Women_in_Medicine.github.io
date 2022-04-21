@@ -1,3 +1,3 @@
-# Women_in_Medicine.github.io
+# Women in Medicine
 
 testing the website to see if it is working
