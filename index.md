@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
 # Women in Medicine
 
 I am testing this page out to see if it will work
